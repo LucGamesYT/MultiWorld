@@ -26,7 +26,7 @@
         <dependency>
             <groupId>com.github.LucGamesYT</groupId>
             <artifactId>JukeboxMC</artifactId>
-            <version>1.0.47</version>
+            <version>v1.0.54</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
